@@ -13,3 +13,4 @@ class Employee:
         
 e1 = Employee("1,45,000", "Jyotir", "Delhi")
 e1.get_info()
+# Updated with new repo
